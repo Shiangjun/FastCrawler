@@ -1,8 +1,10 @@
 # Web_Crawler_For_Movielens
 This is the source for sub-project in Chestnut: "Investigate, Collect and Supply Related Movie Information in Movielens via Web Crawler"
 
-Data set are used from Movielens ml-latest & HetRec-2011
+## Data set 
+Movielens ml-latest & HetRec-2011
 
+## Features
 It applied three key features here:
 
 1. Through IMDB instead of Movielens
