@@ -1,5 +1,8 @@
-# Web_Crawler_For_Movielens
-This is the source for sub-project in Chestnut: "Investigate, Collect and Supply Related Movie Information in Movielens via Web Crawler"
+# FastCrawler for Movielens
+This is the source for sub-project in Chestnut: "Investigate, Collect and Supply Related Movie Information in Movielens via Web Crawler", which aimed to supply "Director" information for CHESTNUT runtime.
+
+## Stauts
+Currently has been integrated with CHESTNUT to support interactions with users.
 
 ## Data set 
 Movielens ml-latest & HetRec-2011
